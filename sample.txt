@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dockers
 kubernets
+=======
+jenkins
+gitlab
+>>>>>>> origin
