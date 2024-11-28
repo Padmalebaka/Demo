@@ -4,3 +4,5 @@ jenkins
 gitlab
 AWS
 Devops
+logic to send email
+hi all
