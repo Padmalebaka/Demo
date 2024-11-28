@@ -2,3 +2,4 @@ dockers
 kubernets
 jenkins
 gitlab
+AWS
